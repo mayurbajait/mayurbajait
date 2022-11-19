@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software development and Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on developing new technologies and projects.
-- 📫 Reach me at mayurbajait2001@gmail.com 
+- 📫 Reach me at mayurbajait2016@gmail.com 
