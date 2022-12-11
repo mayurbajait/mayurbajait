@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mayur Bajait</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92533816/206888817-e12a59b5-933c-4d0e-89bb-859f9dea826d.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurbajait&label=Profile%20views&color=0e75b6&style=flat" alt="mayurbajait" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurbajait" alt="mayurbajait" /></a> </p>
 
 - 🔭 I’m currently working on [CRUD Operation](https://github.com/mayurbajait/CRUD-ReactJS-MySQL-NodeJS)
 
