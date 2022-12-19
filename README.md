@@ -10,15 +10,15 @@
 
 - 🤝 I’m looking for help with [Automatic Answer Checker Machine](https://github.com/mayurbajait/Automatic-Answer-Checker-Machine-)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayurbajait?tab=repositories](https://github.com/mayurbajait?tab=repositories)
+- 👨‍💻 All of my projects are available at [github_repositories](https://github.com/mayurbajait?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mayur-bajait/](https://www.linkedin.com/in/mayur-bajait/)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@mayurbajait)
 
 - 💬 Ask me about **Frontend Development, Backend Development and Databases**
 
 - 📫 How to reach me **mhbajait@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15qBZby1vSbo9KhQFF_0l6cJvnTY2a3qE/view?usp=sharing](https://drive.google.com/file/d/15qBZby1vSbo9KhQFF_0l6cJvnTY2a3qE/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/15qBZby1vSbo9KhQFF_0l6cJvnTY2a3qE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
