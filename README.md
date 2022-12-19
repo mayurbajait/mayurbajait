@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [CRUD Operation](https://github.com/mayurbajait/CRUD-ReactJS-MySQL-NodeJS)
+- 🔭 I’m currently working on [CRUD Operation Projects](https://github.com/mayurbajait/CRUD-ReactJS-MySQL-NodeJS)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github_repositories](https://github.com/mayurbajait?tab=repositories)
 
-- 📝 I regularly write articles on [medium.com](https://medium.com/@mayurbajait)
+- 📝 I regularly write articles on [medium - @mayurbajait](https://medium.com/@mayurbajait)
 
 - 💬 Ask me about **Frontend Development, Backend Development and Databases**
 
