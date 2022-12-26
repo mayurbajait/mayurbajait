@@ -1,5 +1,6 @@
 ![logo](https://github.com/mayurbajait/mayurbajait/blob/main/Github%20Banner.png)
 
+
 <h1 align="center">Hi 👋, I'm Mayur Bajait</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -35,7 +36,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbajait&show_icons=true&locale=en&layout=compact" alt="mayur-bajait" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurbajait&" alt="mayurbajait" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mayurbajait)](https://git.io/streak-stats)
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurbajait&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats) -->
 
