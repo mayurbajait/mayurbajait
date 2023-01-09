@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [medium - @mayurbajait](https://medium.com/@mayurbajait)
 
-- 💬 Ask me about **Frontend Development, Backend Development and Databases**
+- 💬 Ask me about **Frontend-Backend Development, System Design, SDLC, and Databases**
 
 - 📫 How to reach me **mhbajait@gmail.com**
 
