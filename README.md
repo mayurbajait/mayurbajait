@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA DSA, ReactJS**
 
-- 🤝 I’m looking for help with [Automatic Answer Checker Machine](https://github.com/mayurbajait/Automatic-Answer-Checker-Machine-)
+- 🤝 I’m looking for help with [Automatic Subjective Answer Checker Machine](https://github.com/mayurbajait/Automatic-Answer-Checker-Machine-)
 
 - 👨‍💻 All of my projects are available at [github_repositories](https://github.com/mayurbajait?tab=repositories)
 
