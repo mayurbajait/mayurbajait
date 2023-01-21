@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CRUD Operation Projects](https://github.com/mayurbajait/CRUD-ReactJS-MySQL-NodeJS)
 
-- 🌱 I’m currently learning **JAVA DSA, ReactJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 🤝 I’m looking for help with [Automatic Subjective Answer Checker Machine](https://github.com/mayurbajait/Automatic-Answer-Checker-Machine-)
 
