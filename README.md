@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayur Bajait</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - 🔭 I’m currently working on [CRUD Operation Projects](https://github.com/mayurbajait/CRUD-ReactJS-MySQL-NodeJS)
 
