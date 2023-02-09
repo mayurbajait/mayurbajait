@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github_repositories](https://github.com/mayurbajait?tab=repositories)
 
-- 📝 I regularly write articles on [medium - @mayurbajait](https://medium.com/@mayurbajait)
+<!-- - 📝 I regularly write articles on []() -->
 
 - 💬 Ask me about **Web Development, System Design, SDLC And Databases**
 
