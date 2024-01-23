@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sdemayur@gmail.com**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1zhaPEu8wlBxxYBOVvLbG_V7Xa5qmFDkf/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1kaU3F9Bd02zeGyV34uvuJ_tOycQ6BDQa/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
