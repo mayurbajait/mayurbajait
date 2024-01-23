@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Development, System Design, SDLC And Databases**
 
-- 📫 How to reach me **mhbajait@gmail.com**
+- 📫 How to reach me **sdemayur@gmail.com**
 
 - 📄 Know about my experiences [click here](https://drive.google.com/file/d/1zhaPEu8wlBxxYBOVvLbG_V7Xa5qmFDkf/view?usp=sharing)
 
