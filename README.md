@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🔭 I’m currently working on [CRUD Operation Projects](https://github.com/mayurbajait/CRUD-ReactJS-MySQL-NodeJS)
+- 🔭 I’m currently working on [iOS Development]()
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 🤝 I’m looking for help with [Automatic Subjective Answer Checker Machine](https://github.com/mayurbajait/Automatic-Answer-Checker-Machine-)
 
@@ -14,11 +14,11 @@
 
 <!-- - 📝 I regularly write articles on []() -->
 
-- 💬 Ask me about **Web Development, System Design, SDLC And Databases**
+- 💬 Ask me about **iOS Development, Web Applications, System Design, SDLC And Databases**
 
 - 📫 How to reach me **sdemayur@gmail.com**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1kaU3F9Bd02zeGyV34uvuJ_tOycQ6BDQa/view?usp=drive_link)
+<!-- - 📄 Know about my experiences [click here](https://drive.google.com/file/d/1kaU3F9Bd02zeGyV34uvuJ_tOycQ6BDQa/view?usp=drive_link)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
